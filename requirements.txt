@@ -1,0 +1,7 @@
+transformers
+bitsandbytes
+accelerate
+python-dotenv
+beautifulsoup4 
+requests 
+pandas
